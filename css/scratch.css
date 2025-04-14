@@ -1,0 +1,73 @@
+body {
+    background-color: #f4f4f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #c8102e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.intro {
+    padding: 30px;
+    text-align: center;
+}
+
+.features {
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 20px auto;
+    width: 80%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.video {
+    background-color: #e0f7fa;
+    padding: 30px;
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+.stats {
+    background-color: #fff8e1;
+    padding: 30px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Impact', Charcoal, sans-serif;
+    color: #c8102e;
+}
+
+ul, ol {
+    text-align: left;
+    margin-left: 40px;
+}
+
+iframe {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tableauPlaceholder {
+    margin-top: 20px;
+}
